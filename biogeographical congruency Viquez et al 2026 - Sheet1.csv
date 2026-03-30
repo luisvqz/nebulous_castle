@@ -1,0 +1,314 @@
+index,Key,Year,subject,bat_species,Bat_names (following current nomemclature),Bat Family,Virus,Virus Family,Bioregions,BIOG-Support
+1,E3DPXG8N,2019,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,EBOV,Filoviridae,N,
+2,3AXDS78K,2003,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,feline foamy virus,Retroviridae,Y,https://doi.org/10.1186/s12977-017-0379-9
+3,ADB9EPP8,2014,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,African HeV (strain M74),Paramyxoviridae,Y,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030346
+4,ADB9EPP8,2014,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,African HeV (strain M74),Paramyxoviridae,Y,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030346
+5,JKXAAJEC,2015,cells,Myotis davidii,Myotis davidii,Vespertilionodae,SeV,Paramyxoviridae,Y,"Oriental and Sino-japanese region, virus is used as a test bench in mutliple species"
+6,JKXAAJEC,2015,cells,Rhinolophus sinicus,Rhinolophus sinicus,Rhinolophidae,SeV,Paramyxoviridae,Y,"Oriental and Sino-japanese region, virus is used as a test bench in mutliple species"
+7,2KPIKETK,2013,cells,Myotis davidii,Myotis davidii,Vespertilionodae,bat adenovirus-TJM (BtAdV-TJM),Adenoviridae,Y,second isolation of this pathogen was in pipistrellus pipistrellus https://wwwnc.cdc.gov/eid/article/15/12/09-0646_article
+8,LB8R2ATD,2010,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,ZEBOV,Filoviridae,Y,circulating in areas where the bat is endemic
+9,LB8R2ATD,2010,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+10,FIVTPI6B,2023,cells,Pteropus dasymallus,Pteropus dasymallus,Pteropodidae,HIV-1,Retroviridae,NA,Human virus
+11,FIVTPI6B,2023,cells,Pteropus dasymallus,Pteropus dasymallus,Pteropodidae,SIVmac,Retroviridae,Y,Species range is in Sino-Japanese Realm
+12,FIVTPI6B,2023,cells,Pteropus dasymallus,Pteropus dasymallus,Pteropodidae,MuLV,Retroviridae,NA,Rodent Pathogen
+13,FIVTPI6B,2023,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,HIV-1,Retroviridae,NA,Human virus
+14,FIVTPI6B,2023,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,SIVmac,Retroviridae,Y,SIV not endemic to the area
+15,FIVTPI6B,2023,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,MuLV,Retroviridae,NA,Rodent Pathogen
+16,FIVTPI6B,2023,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,HIV-1,Retroviridae,NA,Human virus
+17,FIVTPI6B,2023,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SIVmac,Retroviridae,N,
+18,FIVTPI6B,2023,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MuLV,Retroviridae,NA,Rodent Pathogen
+19,FIVTPI6B,2023,cells,Epomophorus crypturus,Epomophorus crypturus,Pteropodidae,HIV-1,Retroviridae,NA,Human virus
+20,FIVTPI6B,2023,cells,Epomophorus crypturus,Epomophorus crypturus,Pteropodidae,SIVmac,Retroviridae,N,
+21,FIVTPI6B,2023,cells,Epomophorus crypturus,Epomophorus crypturus,Pteropodidae,MuLV,Retroviridae,NA,Rodent Pathogen
+22,FIVTPI6B,2023,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,HIV-1,Retroviridae,NA,Human virus
+23,FIVTPI6B,2023,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,SIVmac,Retroviridae,N,
+24,FIVTPI6B,2023,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,MuLV,Retroviridae,NA,Rodent Pathogen
+25,FIVTPI6B,2023,cells,Rhinolophus ferrumequinum,Rhinolophus ferrumequinum,Rhinolophidae,HIV-1,Retroviridae,NA,Human virus
+26,FIVTPI6B,2023,cells,Rhinolophus ferrumequinum,Rhinolophus ferrumequinum,Rhinolophidae,SIVmac,Retroviridae,Y,circulating in areas where the bat is endemic
+27,FIVTPI6B,2023,cells,Rhinolophus ferrumequinum,Rhinolophus ferrumequinum,Rhinolophidae,MuLV,Retroviridae,NA,Rodent Pathogen
+28,FIVTPI6B,2023,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,HIV-1,Retroviridae,NA,Human virus
+29,FIVTPI6B,2023,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,SIVmac,Retroviridae,Y,circulating in areas where the bat is endemic
+30,FIVTPI6B,2023,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,MuLV,Retroviridae,NA,Rodent Pathogen
+31,FIVTPI6B,2023,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,HIV-1,Retroviridae,NA,Human virus
+32,FIVTPI6B,2023,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,SIVmac,Retroviridae,Y,"overlap in Myanmar between Rhesus range and the bat, bat range https://www.bio.bris.ac.uk/research/bats/China/miniopterusfuliginosus.htm#:~:text=Little%20known.-,Distribution,(1997)."
+33,FIVTPI6B,2023,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,MuLV,Retroviridae,NA,Rodent Pathogen
+34,FIVTPI6B,2023,cells,Miniopterus schreibersii,Miniopterus schreibersii,Miniopteridae,HIV-1,Retroviridae,NA,Human virus
+35,FIVTPI6B,2023,cells,Miniopterus schreibersii,Miniopterus schreibersii,Miniopteridae,SIVmac,Retroviridae,N,
+36,FIVTPI6B,2023,cells,Miniopterus schreibersii,Miniopterus schreibersii,Miniopteridae,MuLV,Retroviridae,NA,Rodent Pathogen
+37,FIVTPI6B,2023,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,HIV-1,Retroviridae,NA,Human virus
+38,FIVTPI6B,2023,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SIVmac,Retroviridae,N,
+39,FIVTPI6B,2023,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,MuLV,Retroviridae,NA,Rodent Pathogen
+40,FIVTPI6B,2023,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,HIV-1,Retroviridae,NA,Human virus
+41,FIVTPI6B,2023,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,SIVmac,Retroviridae,N,
+42,FIVTPI6B,2023,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,MuLV,Retroviridae,NA,Rodent Pathogen
+43,FIVTPI6B,2023,cells,Eptesicus nilssonii,Eptesicus nilssonii,Vespertilionodae,HIV-1,Retroviridae,NA,Human virus
+44,FIVTPI6B,2023,cells,Eptesicus nilssonii,Eptesicus nilssonii,Vespertilionodae,SIVmac,Retroviridae,N,
+45,FIVTPI6B,2023,cells,Eptesicus nilssonii,Eptesicus nilssonii,Vespertilionodae,MuLV,Retroviridae,NA,Rodent Pathogen
+46,46TUSSVR,2023,cells,Miniopterus schreibersii,Miniopterus schreibersii,Miniopteridae,LLOV,Filoviridae,Y,Circulating in Europe
+47,VI7RDE32,2009,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,HeV,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+48,VI7RDE32,2009,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,NiV,Paramyxoviridae,Y,Circulating in areas where virus is endemic
+49,2Y5AIBWD,2023,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+50,2Y5AIBWD,2023,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+51,APIUIPRI,2014,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,NiV,Paramyxoviridae,N,
+52,APIUIPRI,2014,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,NiV,Paramyxoviridae,N,
+53,AFBCQF2Z,2017,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+54,KW82NQLM,2022,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,LBV,Rhabdoviridae,Y,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539106/
+55,G5NAD56D,2023,cells,Rhinolophus lepidus,Rhinolophus lepidus,Rhinolophidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+56,UME3S8XF,2018,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+57,UME3S8XF,2018,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SeV,Paramyxoviridae,N,
+58,9LZFY9FW,2013,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,reovirus serotype 3,Reoviridae,N,
+59,9LZFY9FW,2013,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,EMCV,Picornaviridae,N,
+60,894BTMV6,2021,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+61,894BTMV6,2021,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBOV,Filoviridae,Y,Seropositivity
+62,84G4LCIW,2023,cells,Myotis myotis,Myotis myotis,Vespertilionodae,EBLV-1,Rhabdoviridae,Y,Circulating in Europe
+63,9PETUGNS,2016,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+64,9PETUGNS,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+65,9PETUGNS,2016,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+66,9PETUGNS,2016,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+67,9PETUGNS,2016,cells,Rhinolophus landeri,Rhinolophus landeri,Rhinolophidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+68,9PETUGNS,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+69,9PETUGNS,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,IAV,Orthomyxoviridae,Y,circulation in LA
+70,TFNLAD8A,2021,cells,Sturnira lilium,Sturnira parvidens,Phyllostomidae,IDV,Orthomyxoviridae,Y,"Not in Bats, but circulation in LA"
+71,TFNLAD8A,2021,cells,Sturnira lilium,Sturnira parvidens,Phyllostomidae,IAV,Orthomyxoviridae,Y,circulation in LA
+72,TFNLAD8A,2021,cells,Sturnira lilium,Sturnira parvidens,Phyllostomidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+73,TFNLAD8A,2021,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IDV,Orthomyxoviridae,Y,same region https://www.mdpi.com/1999-4915/15/12/2433
+74,TFNLAD8A,2021,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+75,TFNLAD8A,2021,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+76,3WJS96N6,2020,cells,Mops condylurus,Mops condylurus,Molossidae,EBOV,Filoviridae,Y,seropositivity
+77,3WJS96N6,2020,cells,Nyctalus noctula,Nyctalus noctula,Vespertilionodae,EBOV,Filoviridae,N,
+78,LSBVFUKD,2014,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,HeV,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+79,5AZXAA9G,2014,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,RVFV,Phlebovirus,Y,circulating in areas where the bat is endemic
+80,5AZXAA9G,2014,cells,Pipistrellus pipistrellus,Pipistrellus pipistrellus,Vespertilionodae,RVFV,Phlebovirus,N,
+81,5AZXAA9G,2014,cells,Rhinolophus landeri,Rhinolophus landeri,Rhinolophidae,RVFV,Phlebovirus,Y,Circulating in areas where virus is endemic
+82,5AZXAA9G,2014,cells,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,RVFV,Phlebovirus,N,
+83,5AZXAA9G,2014,cells,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,RVFV,Phlebovirus,N,
+84,NVS2PLIG,2015,cells,Pteropus vampyrus,Pteropus vampyrus,Pteropodidae,NDV,Paramyxoviridae,N,
+85,U5QUFU2D,2019,cells,Mops condylurus,Mops condylurus,Molossidae,EBOV,Filoviridae,Y,Circulating in areas where virus is endemic
+86,SAGWI9NI,2014,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+87,SAGWI9NI,2014,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,WNV,Flaviviridae,Y,circulating in areas where the bat is endemic
+88,SAGWI9NI,2014,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+89,SAGWI9NI,2014,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,WNV,Flaviviridae,Y,circulating in areas where the bat is endemic
+90,SAGWI9NI,2014,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+91,SAGWI9NI,2014,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,WNV,Flaviviridae,Y,circulating in areas where the bat is endemic
+92,SAGWI9NI,2014,cells,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+93,SAGWI9NI,2014,cells,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,WNV,Flaviviridae,Y,circulating in areas where the bat is endemic
+94,SAGWI9NI,2014,cells,Perimyotis subflavus,Perimyotis subflavus,Vespertilionodae,IAV,Orthomyxoviridae,Y,circulation in LA
+95,SAGWI9NI,2014,cells,Perimyotis subflavus,Perimyotis subflavus,Vespertilionodae,WNV,Flaviviridae,Y,10.7589/0090-3558-40.2.335
+96,SAGWI9NI,2014,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+97,SAGWI9NI,2014,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,WNV,Flaviviridae,Y,circulating in areas where the bat is endemic
+98,SAGWI9NI,2014,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+99,SAGWI9NI,2014,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,WNV,Flaviviridae,Y,10.7589/0090-3558-40.2.335
+100,WDV8XIPD,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBOV,Filoviridae,Y,Seropositivity
+101,WDV8XIPD,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+102,E85KR7JN,2023,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+103,ZXQHR8KC,2011,cells,Eidolon helvum,Eidolon helvum,Pteropodidae,RVFV,Phlebovirus,Y,circulating in areas where the bat is endemic
+104,ZXQHR8KC,2011,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,RVFV,Phlebovirus,Y,circulating in areas where the bat is endemic
+105,ZXQHR8KC,2011,cells,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,RVFV,Phlebovirus,N,
+106,ZXQHR8KC,2011,cells,Pipistrellus sp.,Pipistrellus sp.,Vespertilionodae,RVFV,Phlebovirus,N,
+107,ZXQHR8KC,2011,cells,Hipposideros caffer/ruber,Hipposideros caffer/ruber,Hipposideridae,RVFV,Phlebovirus,Y,Circulating in areas where virus is endemic
+108,ZXQHR8KC,2011,cells,Rhinolophus landeri,Rhinolophus landeri,Rhinolophidae,RVFV,Phlebovirus,Y,Circulating in areas where virus is endemic
+109,LW5JG4HJ,2023,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+110,LW5JG4HJ,2023,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,ZIKV,Flaviviridae,Y,close call but overlap in some areas of indonesia
+111,LW5JG4HJ,2023,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,MELV,Sedoreoviridae,Y,"Not in the area where the virus ""circulates"" only one isolation in Lelaka Malaysia, https://pnas.org/doi/epdf/10.1073/pnas.0701372104"
+112,QY7TTFWT,2020,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+113,QY7TTFWT,2020,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,MELV,Sedoreoviridae,Y,"Not in the area where the virus ""circulates"" only one isolation in Lelaka Malaysia, https://pnas.org/doi/epdf/10.1073/pnas.0701372104"
+114,QY7TTFWT,2020,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,HSV-1,Orthoherpesviridae,NA,Human pathogen
+115,QY7TTFWT,2020,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,MERS,Coronaviridae,Y,"In humans and camels, MERS is reported in Malaysia, Phillipines and Thailand doi:10.1038/emm.2015.76"
+116,QY7TTFWT,2020,cells,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+117,QY7TTFWT,2020,cells,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,MELV,Sedoreoviridae,Y,"Other PRV have been isolated in this bat species, https://link.springer.com/article/10.1007/s00705-017-3251-2#Fig3"
+118,QY7TTFWT,2020,cells,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,HSV-1,Orthoherpesviridae,NA,Human pathogen
+119,QY7TTFWT,2020,cells,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,MERS,Coronaviridae,Y,small overlap between the species range and report form this paper in human and camels doi:10.1038/emm.2015.76
+120,F366DFHI,2020,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,Henipavirus,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+121,F366DFHI,2020,cells,Pteropus alecto,Pteropus alecto,Pteropodidae,Cedar,Paramyxoviridae,Y,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410871/
+122,VIXGGVI3,2023,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,NDV,Paramyxoviridae,Y,Circulating in areas where virus is endemic
+123,VIXGGVI3,2023,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+124,TQBGDYKV,2017,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+125,TQBGDYKV,2017,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBOV,Filoviridae,Y,Seropositivity
+126,DJRHSNTC,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+127,DJRHSNTC,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,RESTV,Filoviridae,Y,Circulating in areas where virus is endemic
+128,DJRHSNTC,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,SUDV,Filoviridae,Y,circulating in areas where the bat is endemic
+129,DJRHSNTC,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,TAFV,Filoviridae,Y,circulating in areas where the bat is endemic
+130,DJRHSNTC,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,EBOV,Filoviridae,Y,Circulationg in areas where the bat is common
+131,DJRHSNTC,2016,cells,Hypsignathus monstrosus,Hypsignathus monstrosus,Pteropodidae,BDBV,Filoviridae,Y,circulating in areas where the bat is endemic
+132,DJRHSNTC,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,MARV,Filoviridae,Y,Coexistence in the same range
+133,DJRHSNTC,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,RESTV,Filoviridae,Y,Circulating in areas where virus is endemic
+134,DJRHSNTC,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,SUDV,Filoviridae,Y,circulating in areas where the bat is endemic
+135,DJRHSNTC,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,TAFV,Filoviridae,Y,circulating in areas where the bat is endemic
+136,DJRHSNTC,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,EBOV,Filoviridae,Y,Circulationg in areas where the bat is common
+137,DJRHSNTC,2016,cells,Epomops buettikoferi,Epomops buettikoferi,Pteropodidae,BDBV,Filoviridae,Y,circulating in areas where the bat is endemic
+138,DJRHSNTC,2016,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,MARV,Filoviridae,N,
+139,DJRHSNTC,2016,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,RESTV,Filoviridae,N,
+140,DJRHSNTC,2016,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,SUDV,Filoviridae,N,
+141,DJRHSNTC,2016,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,TAFV,Filoviridae,N,
+142,DJRHSNTC,2016,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,EBOV,Filoviridae,N,
+143,DJRHSNTC,2016,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,BDBV,Filoviridae,N,
+144,DJRHSNTC,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,MARV,Filoviridae,N,
+145,DJRHSNTC,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RESTV,Filoviridae,N,
+146,DJRHSNTC,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SUDV,Filoviridae,N,
+147,DJRHSNTC,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,TAFV,Filoviridae,N,
+148,DJRHSNTC,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,EBOV,Filoviridae,N,
+149,DJRHSNTC,2016,cells,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,BDBV,Filoviridae,N,
+150,DJRHSNTC,2016,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,MARV,Filoviridae,N,
+151,DJRHSNTC,2016,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RESTV,Filoviridae,N,
+152,DJRHSNTC,2016,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,SUDV,Filoviridae,N,
+153,DJRHSNTC,2016,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,TAFV,Filoviridae,N,
+154,DJRHSNTC,2016,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,EBOV,Filoviridae,N,
+155,DJRHSNTC,2016,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,BDBV,Filoviridae,N,
+156,DJRHSNTC,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+157,DJRHSNTC,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,RESTV,Filoviridae,Y,circulating in areas where the bat is endemic
+158,DJRHSNTC,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SUDV,Filoviridae,Y,circulating in areas where the bat is endemic
+159,DJRHSNTC,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,TAFV,Filoviridae,Y,circulating in areas where the bat is endemic
+160,DJRHSNTC,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBOV,Filoviridae,Y,Seropositivity
+161,DJRHSNTC,2016,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,BDBV,Filoviridae,Y,circulating in areas where the bat is endemic
+162,NKRXJH6D,2021,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,PRV (Melaka),Sedoreoviridae,Y,https://www.sciencedirect.com/science/article/pii/S0168170223002101
+163,NKRXJH6D,2021,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+164,K947IG2W,2021,cells,Pteropus vampyrus,Pteropus vampyrus,Pteropodidae,NiV,Paramyxoviridae,Y,Circulating in areas where virus is endemic
+165,K947IG2W,2021,cells,Pteropus vampyrus,Pteropus vampyrus,Pteropodidae,NiV,Paramyxoviridae,Y,name corrected from giganteus to adhere to current nomemclature
+166,FLSUK2D4,2017,cells,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,DENV-1,Flaviviridae,Y,all DENV serotypes are now are now pan tropical
+167,FLSUK2D4,2017,cells,Molossus sinaloe,Molossus sinaloe,Molossidae,DENV-1,Flaviviridae,Y,all DENV serotypes are now are now pan tropical
+168,FLSUK2D4,2017,cells,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,DENV-1,Flaviviridae,Y,all DENV serotypes are now are now pan tropical
+169,2PXL84JK,2020,cells,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,NiV,Paramyxoviridae,Y,https://www.nature.com/articles/s41598-021-03641-w
+170,BE999MJR,2023,cells,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,PRV (Melaka),Sedoreoviridae,Y,https://www.sciencedirect.com/science/article/pii/S0168170223002101
+171,BE999MJR,2023,cells,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+172,HZD87DMH,2024,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+173,CVYQX55M,2023,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,ZIKV,Flaviviridae,Y,circulation in LA
+174,RAVZHEIG,2023,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+175,DA5RGNTY,2023,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+176,2LLXBG6G,2022,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SOSV,Filoviridae,Y,circulating in areas where the bat is endemic
+177,CXH453BK,2022,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+178,DIBWJM48,2022,bat,Eonycteris spelaea,Eonycteris spelaea,Pteropodidae,PRV (Melaka),Sedoreoviridae,Y,https://www.sciencedirect.com/science/article/pii/S0168170223002101
+179,AMDUI8JM,2021,cells,Chaerephon plicatus,Chaerephon plicatus,Molossidae,Kaeng Khoi virus,Peribunyaviridae,Y,That species was the first known reservoir https://pmc.ncbi.nlm.nih.gov/articles/PMC8544448/
+180,PKHFJVMY,2021,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+181,4UGRK9Q3,2021,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,IAV,Orthomyxoviridae,Y,can be argue to be a cosmopolitan virus
+182,99MEQALX,2021,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,ZIKV,Flaviviridae,Y,circulation in LA
+183,73CUT6E3,2020,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SOSV,Filoviridae,Y,circulating in areas where the bat is endemic
+184,KQC8MRXK,2020,bat,Eidolon helvum,Eidolon helvum,Pteropodidae,LBV,Rhabdoviridae,Y,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539106/
+185,978KV4Z4,2020,bat,Carollia perspicillata,Carollia perspicillata,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+186,CYB2EB2N,2020,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,NiV,Paramyxoviridae,Y,https://www.nature.com/articles/s41598-021-03641-w
+187,7ZR8KSHL,2020,cells,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,MERS,Coronaviridae,N,
+188,E3ICI2Y6,2020,cells,Pteropus dasymallus,Pteropus dasymallus,Pteropodidae,EMCV,Picornaviridae,Y,"https://pubmed.ncbi.nlm.nih.gov/30391400/, virus found Japanese Miniopterus"
+189,E3ICI2Y6,2020,cells,Pteropus dasymallus,Pteropus dasymallus,Pteropodidae,JEV,Flaviviridae,Y,circulation in NA
+190,E3ICI2Y6,2020,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,EMCV,Picornaviridae,N,
+191,E3ICI2Y6,2020,cells,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,JEV,Flaviviridae,Y,circulation in NA
+192,E3ICI2Y6,2020,cells,Rhinolophus ferrumequinum,Rhinolophus ferrumequinum,Rhinolophidae,EMCV,Picornaviridae,Y,Range overlaps
+193,E3ICI2Y6,2020,cells,Rhinolophus ferrumequinum,Rhinolophus ferrumequinum,Rhinolophidae,JEV,Flaviviridae,Y,Range overlaps
+194,E3ICI2Y6,2020,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,EMCV,Picornaviridae,Y,Known host spceis for the virus
+195,E3ICI2Y6,2020,cells,Miniopterus fuliginosus,Miniopterus fuliginosus,Miniopteridae,JEV,Flaviviridae,Y,circulation in NA
+196,59C5CMLZ,2020,bat,Pteropus alecto,Pteropus alecto,Pteropodidae,HeV,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+197,7RXXLHAF,2020,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SARS-CoV-2,Coronaviridae,Y,circulating in areas where the bat is endemic
+198,ZUY8PGZE,2019,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+199,XBGQWTDI,2019,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,ZIKV,Flaviviridae,Y,circulation in LA
+200,GELIE6ZC,2019,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,IAV,Orthomyxoviridae,Y,Found in stenodermatinae in brazil
+201,SY3VFGR4,2018,bat,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+202,54FSTYQ5,2018,bat,Eidolon helvum,Eidolon helvum,Pteropodidae,LBV,Rhabdoviridae,Y,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539106/
+203,SEBTD99V,2018,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+204,MLIDWKW3,2018,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,RVFV,Phlebovirus,Y,circulating in areas where the bat is endemic
+205,G9NQQTL5,2017,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+206,KWBI3SFV,2017,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,TCRV,Arenaviridae,Y,circulation in LA
+207,WE8U6KAB,2017,bat,Artibeus intermedius,Artibeus intermedius,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+208,NI3MY9A5,2016,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBOV,Filoviridae,Y,Seropositivity
+209,APRU5M8L,2016,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,CHIKV,Togaviridae,Y,circulation in LA
+210,D36EPYYB,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+211,MDMP4WTJ,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+212,MDMP4WTJ,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,RESTV,Filoviridae,Y,circulating in areas where the bat is endemic
+213,MDMP4WTJ,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,SUDV,Filoviridae,Y,circulating in areas where the bat is endemic
+214,MDMP4WTJ,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,TAFV,Filoviridae,Y,circulating in areas where the bat is endemic
+215,MDMP4WTJ,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBOV,Filoviridae,Y,Seropositivity
+216,MDMP4WTJ,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,BDBV,Filoviridae,Y,circulating in areas where the bat is endemic
+217,IJUC6WNN,2015,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,circulating in areas where the bat is endemic
+218,9DUQ9AYT,2014,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,DENV-1,Flaviviridae,Y,circulation in LA
+219,9DUQ9AYT,2014,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,DENV-4,Flaviviridae,Y,circulation in LA
+220,NX6GUYM3,2014,bat,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+221,NUDYH7TW,2013,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in LA
+222,3STY73G6,2013,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in LA
+223,N5424NPZ,2013,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in LA
+224,PTKW2HRV,2013,bat,Artibeus intermedius,Artibeus intermedius,Phyllostomidae,DENV-2,Flaviviridae,Y,circulation in LA
+225,EP9Y9WE5,2013,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in LA
+226,AXJIJ83M,2012,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,MARV,Filoviridae,Y,10.3201/eid2406.172165
+227,LR8TLWZX,2012,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,TCRV,Arenaviridae,Y,circulation in LA
+228,3GKTXAKR,2011,bat,Pteropus alecto,Pteropus alecto,Pteropodidae,Henipavirus,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+229,3GKTXAKR,2011,bat,Pteropus alecto,Pteropus alecto,Pteropodidae,NiV,Paramyxoviridae,Y,Circulating in areas where virus is endemic
+230,3GKTXAKR,2011,bat,Pteropus vampyrus,Pteropus vampyrus,Pteropodidae,HeV,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+231,3GKTXAKR,2011,bat,Pteropus vampyrus,Pteropus vampyrus,Pteropodidae,NiV,Paramyxoviridae,Y,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539106/
+232,VLWNZFHB,2010,bat,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,Bat-CoV,Coronaviridae,Y,Other similar coronaviruses circulate in that region
+233,4HT3K9B5,2010,bat,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,YOKV,Flaviviridae,Y,"isolated from bats in japan only, small overlap in Sino-Janapanese realm and bioregion"
+234,YG98ZYQD,2009,bat,Eptesicus serotinus,Eptesicus serotinus,Vespertilionodae,EBLV-1,Rhabdoviridae,Y,Circulating in Europe
+235,VYXLMSR5,2008,bat,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,EBLV-2,Rhabdoviridae,Y,Circulating in Europe
+236,8I82FBSA,2008,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,WCBV,Rhabdoviridae,Y,circulation in LA
+237,LU38WQBW,2008,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in LA
+238,DQW68K97,2007,bat,Pteropus poliocephalus,Pteropus poliocephalus,Pteropodidae,NiV,Paramyxoviridae,Y,Circulating in areas where virus is endemic
+239,J85QI6EU,2007,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in LA
+240,J85QI6EU,2007,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,circulation in LA
+241,GP4EWJAH,2006,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV Irkut,Rhabdoviridae,N,
+242,GP4EWJAH,2006,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV Aravan,Rhabdoviridae,N,
+243,GP4EWJAH,2006,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV Khujand,Rhabdoviridae,N,
+244,Z7P37JYU,2005,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,WNV,Flaviviridae,Y,circulation in LA
+245,Z7P37JYU,2005,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,WNV,Flaviviridae,Y,circulation in LA
+246,WNP38K9X,2005,bat,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+247,5LZBFDX9,2005,bat,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+248,YS8M5V26,2001,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+249,UXHKCBX9,2000,bat,Pteropus poliocephalus,Pteropus poliocephalus,Pteropodidae,HeV,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+250,784I3IU4,2000,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,EBLV-1,Rhabdoviridae,N,
+251,5VU4FPWP,1998,bat,Pteropus poliocephalus,Pteropus poliocephalus,Pteropodidae,HeV,Paramyxoviridae,Y,https://www.publish.csiro.au/ZO/ZO12126
+252,QUC4IL52,1998,bat,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,RABV,Rhabdoviridae,Y,circulation in LA
+253,6CS7462S,1996,bat,Tadarida condylura,Mops condylurus,Molossidae,EBOV,Filoviridae,Y,seropositivity
+254,6CS7462S,1996,bat,Tadarida pumilia,Mops pumilus,Molossidae,EBOV,Filoviridae,Y,seropositivity
+255,6CS7462S,1996,bat,Epomophorus wahlbergi,Epomophorus wahlbergi,Pteropodidae,EBOV,Filoviridae,Y,Circulationg in areas where the bat is common
+256,UMQ6IH3N,1994,bat,Pipistrellus pipistrellus,Pipistrellus pipistrellus,Vespertilionodae,ARAV,Rhabdoviridae,Y,circulates in the area
+257,UMQ6IH3N,1994,bat,Pipistrellus pipistrellus,Pipistrellus pipistrellus,Vespertilionodae,Lyssavirus serotypes 1 and 4,Rhabdoviridae,Y,Circulating in Europe
+258,UMQ6IH3N,1994,bat,Pipistrellus pipistrellus,Pipistrellus pipistrellus,Vespertilionodae,Lyssavirus serotype 4,Rhabdoviridae,Y,Circulating in Europe
+259,D5EPGDQ2,1992,bat,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,Lyssaviruses-Stade,Rhabdoviridae,Y,Circulating in Europe
+260,D5EPGDQ2,1992,bat,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,Lyssaviruses Yuli,Rhabdoviridae,Y,Circulating in Europe
+261,D5EPGDQ2,1992,bat,Myotis daubentonii,Myotis daubentonii,Vespertilionodae,Lyssavirus-1150,Rhabdoviridae,Y,Circulating in Europe
+262,D5EPGDQ2,1992,bat,Myotis brandtii,Myotis brandtii,Vespertilionodae,Lyssaviruses-Stade,Rhabdoviridae,Y,Circulating in Europe
+263,D5EPGDQ2,1992,bat,Myotis brandtii,Myotis brandtii,Vespertilionodae,Lyssaviruses Yuli,Rhabdoviridae,Y,Circulating in Europe
+264,D5EPGDQ2,1992,bat,Myotis brandtii,Myotis brandtii,Vespertilionodae,Lyssavirus-1150,Rhabdoviridae,Y,Circulating in Europe
+265,YTM88ELA,1986,bat,Desmodus rotundus,Desmodus rotundus,Phyllostomidae,Foot and Mouth disease virus (strains O and A),Picornaviridae,Y,circulation in LA
+266,MCPVUAXZ,1982,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,WNV,Flaviviridae,Y,circulating in areas where the bat is endemic
+267,MCPVUAXZ,1982,bat,Rousettus aegyptiacus,Rousettus aegyptiacus,Pteropodidae,JEV,Flaviviridae,Y,circulation in NA
+268,G2H7J97U,1979,bat,Rousettus leschenaultii,Rousettus leschenaultii,Pteropodidae,JEV,Flaviviridae,Y,circulation in NA
+269,9XE9JTKH,1978,bat,Artibeus lituratus,Artibeus lituratus,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+270,9XE9JTKH,1978,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+271,9XE9JTKH,1978,bat,Carollia subrufa,Carollia subrufa,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+272,9XE9JTKH,1978,bat,Sturnira lilium,Sturnira parvidens,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+273,9XE9JTKH,1978,bat,Phyllostomus discolor,Phyllostomus discolor,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+274,5CAXUUA5,1978,bat,Artibeus lituratus,Artibeus lituratus,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+275,5CAXUUA5,1978,bat,Artibeus jamaicensis,Artibeus jamaicensis,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+276,5CAXUUA5,1978,bat,Carollia subrufa,Carollia subrufa,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+277,5CAXUUA5,1978,bat,Sturnira lilium,Sturnira parvidens,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+278,5CAXUUA5,1978,bat,Phyllostomus discolor,Phyllostomus discolor,Phyllostomidae,VEEV,Togaviridae,Y,circulation in LA
+279,PHU9R8XL,1968,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,JEV,Flaviviridae,Y,circulation in NA
+280,PHU9R8XL,1968,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SLEV,Flaviviridae,Y,circulation in NA
+281,PHU9R8XL,1968,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+282,PHU9R8XL,1968,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,SLEV,Flaviviridae,Y,circulation in NA
+283,PJGXLW97,1968,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+284,RLAA6UGP,1967,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,Circulating in areas where virus is endemic
+285,U98TX4XV,1967,bat,Myotis myotis,Myotis myotis,Vespertilionodae,Bunyavirus (Tahyna Virus),Bunyaviridae,N,
+286,SAUSCC2X,1966,bat,Pteropus giganteus,Pteropus vampyrus,Pteropodidae,CHIKV,Togaviridae,Y,endemic area
+287,CUMAFTKI,1966,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,JEV,Flaviviridae,Y,circulation in NA
+288,CUMAFTKI,1966,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SLEV,Flaviviridae,Y,circulation in NA
+289,CUMAFTKI,1966,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+290,CUMAFTKI,1966,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,SLEV,Flaviviridae,Y,circulation in NA
+291,CUMAFTKI,1966,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+292,CUMAFTKI,1966,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,SLEV,Flaviviridae,Y,circulation in NA
+293,AJI6627G,1966,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+294,M44LKI5U,1964,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,JEV,Flaviviridae,Y,circulation in NA
+295,SXSZZW4B,1963,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,circulation in NA
+296,2Z262VM6,1963,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,JEV,Flaviviridae,Y,circulation in NA
+297,2Z262VM6,1963,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,SLEV,Flaviviridae,Y,circulation in NA
+298,2Z262VM6,1963,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+299,2Z262VM6,1963,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,SLEV,Flaviviridae,Y,circulation in NA
+300,2Z262VM6,1963,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,JEV,Flaviviridae,Y,circulation in NA
+301,2Z262VM6,1963,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,SLEV,Flaviviridae,Y,circulation in NA
+302,L35G8RD8,1961,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,CVB3 (Coxsackie B-3),Picornaviridae,Y,cosmopolitan pathogen
+303,I8H44X74,1960,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+304,I8H44X74,1960,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+305,DRMVWQ6L,1959,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+306,DRMVWQ6L,1959,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+307,HH247B7W,1958,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+308,HH247B7W,1958,bat,Antrozous pallidus,Antrozous pallidus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+309,PHV68WVN,1957,bat,Tadarida brasiliensis,Tadarida brasiliensis,Molossidae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+310,4WQVA2QI,1956,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+311,4WQVA2QI,1956,bat,Pipistrellus subflavus,Perimyotis subflavus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+312,4WQVA2QI,1956,bat,Eptesicus fuscus,Eptesicus fuscus,Vespertilionodae,RABV,Rhabdoviridae,Y,circulation in NA and LA
+313,DDCPD7NX,1950,bat,Myotis lucifugus,Myotis lucifugus,Vespertilionodae,NDV,Paramyxoviridae,Y,Circulating in areas where virus is endemic
